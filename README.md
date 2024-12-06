@@ -71,5 +71,5 @@ The repository is in its initial stages and is a work-in-progress to support hac
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/yourusername/repo-name.git  
-   cd repo-name  
+   git clone https://github.com/yourusername/fraud_detection_and_synthetic_data_generation.git  
+   cd fraud_detection_and_synthetic_data_generation
